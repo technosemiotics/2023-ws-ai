@@ -8,8 +8,8 @@ The task:
 
 ### Check these tools:
 
-- https://www.aimyths.org/ai-has-agency#headline-rephraser
-- https://www.aimyths.org/the-term-ai-has-a-clear-meaning#terminology-swap-tool
+- [https://www.aimyths.org/ai-has-agency#headline-rephraser](https://www.aimyths.org/ai-has-agency#headline-rephraser)
+- [https://www.aimyths.org/the-term-ai-has-a-clear-meaning#terminology-swap-tool](https://www.aimyths.org/the-term-ai-has-a-clear-meaning#terminology-swap-tool)
 
 
 
