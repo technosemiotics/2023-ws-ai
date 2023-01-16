@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Debunking AI myths
 permalink: task-debunking-myths
 ---
