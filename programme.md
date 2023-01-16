@@ -5,8 +5,6 @@ permalink: programme
 ---
 
 
-An intensive course with lectures on the history of AI, technology and society, science fiction and pop culture, current applications of AI, and practical exercises on making sense of the complex discourses on technology.
-
 **16-19 January 2023, Palacký University Olomouc**
 [More info »](https://oltk.upol.cz/aktuality/#c68751)
 
@@ -26,17 +24,22 @@ The popularity of conversational AI (chatbots, voicebots) is on the rise. We enc
 
 ## Tuesday, January 17
 
-### 9.00 The historical entanglements of AI and semiotics
-Semiotic models and theories have been implicitly coded within the AI field since the very beginning. Explicit calls for a semiotic theory of computers are more recent. Computer systems can be considered as inherently semiotic due to their function as extensions of human symbolic communication and signification. At the same time, computer systems remain assemblages of interactivity led by semiotic agents (humans). This section will focus on the vocabulary and implications of such entanglements and outline the semiotic parts in these supersystems.
+### 9.00 Linked Open Data as a way to Semantic Web - some European examples (Dr. Dorota Siwecka, University of Wroclaw)
+LOD is one of the means by which the ideas of the semantic web and the development of artificial intelligence can be realized. The lecture will present the basic assumptions related to LOD and also the standard model of data exchange used in the web environment for its implementation - RDF (Resource Description Framework). The issue of appropriate data storage and creation of datasets in the form of open ontologies that can be used to enrich the Semantic Web will also be discussed. The issues will be supported by selected examples of European LOD resources provided by libraries, museums and public administration units.
 
-### 10.00 Automation bias and the anthropomorphism of AI
+### 10.00 Large bibliographies in the digital humanities. Data acquisition, processing, applications and limitations (Prof Adam Pawlowsky, University of Wroclaw)
+
+
+### 11.00 Automation bias and the anthropomorphism of AI
 In human-machine interaction, people sometimes tend to attribute greater authority to the machine than it deserves. Automation bias causes problems in several fields; elsewhere, anthropomorphic design is seen as a positive choice for better usability. We will look at the cases of automation bias and the lessons learned from machine mistakes.
 
-### 11.00 Contemporary applications: language transformers and deepfakes
-Until recently, language was the unique domain of human beings. Now, new language technologies challenge this assumption and enable the production of synthetically generated content. Additionally, deepfake algorithms enable the imitation of human voices and faces. It is increasingly difficult to recognise synthetic content as such. What does this mean for our culture(s)? How do text generators such as GPT-3 and deepfake technologies interfere with our traditional understanding of communication?
 
 ### 12.00 Military technologies
 Technologies have always been developed partly with military purpose and support, and AI is no exception. This entanglement has shaped a vocabulary that is now common in the discourse on intelligent or autonomous machine functions. We will look at such concepts (unmanned, human-in-the-loop, etc.). We will also touch upon the debate on weapons autonomy and the positions of the EU and US policies on the topic of military AI.
+
+
+### 15.00 Olomouc tour
+
 
 ## Wednesday, January 18
 
@@ -49,7 +52,17 @@ How do we make sense of the world? What does it take for our perception to turn 
 ### 12.00 Ancient ‘robots’ and medieval automata
 The concept ‘robot’ originates from Czech writer Karel Čapek. However, automata are common through history both in the real world and in stories. We will look at the ‘living statues’ present in Ancient Greek legends and the role of mechanical temple marvels in everyday culture and religion of Ancient Greece. Moving on to medieval Europe, the automata and artifice in stories merge with the concept of Natura artifex, inspiring the 17th-century notions of mechanical nature and clockwork-world, which have in turn contributed to our contemporary models of rationality, underlying the conceptualisation of current technologies.
 
+### 14.00 soft start of the workshop/hackathon 
+
+### 15.00 Contemporary problems with generative media
+Until recently, language was the unique domain of human beings. Now, new language technologies challenge this assumption and enable the production of synthetically generated content. Additionally, deepfake algorithms enable the imitation of human voices and faces. It is increasingly difficult to recognise synthetic content as such. What does this mean for our culture(s)? How do text generators such as GPT-3 and deepfake technologies interfere with our traditional understanding of communication?
+
+### 16.00-... workshop continues
+
 ## Thursday, January 19
+
+### The historical entanglements of AI and semiotics
+Semiotic models and theories have been implicitly coded within the AI field since the very beginning. Explicit calls for a semiotic theory of computers are more recent. Computer systems can be considered as inherently semiotic due to their function as extensions of human symbolic communication and signification. At the same time, computer systems remain assemblages of interactivity led by semiotic agents (humans). This section will focus on the vocabulary and implications of such entanglements and outline the semiotic parts in these supersystems.
 
 ### Technology and society
 Is technology good, bad, or neutral? Can technology be neutral at all? These are questions still puzzling many researchers. The lecture will give an overview of the general trends of technological determinism and social constructionism and introduce some authors who have shaped the understanding of technology in the 20th century (Mumford, Ellul, Winner, Latour) and earlier (La Mettrie). Building on previous lectures, we will look at the state of the debate on the neutrality of technology today.
@@ -57,3 +70,9 @@ Is technology good, bad, or neutral? Can technology be neutral at all? These are
 ### Superheroes, cyborgs, and artificial creatures in science fiction narratives
 In contemporary science fiction, robots are often depicted as perfect humans. We will look at the spectrum of artificial, non-human or half-human creatures in fiction and their construction as the ‘human mirror’. We will also inquire into the role of fiction in relation to reality, how it criticizes contemporary society and how sci-fi imagery is used by technologists in discourse.
 
+
+
+## Friday, January 20
+
+### Workshop for Erasmus trainees
+Everyone (else) interested and still in Olomouc is welcome to join!
