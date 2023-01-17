@@ -24,10 +24,10 @@ The popularity of conversational AI (chatbots, voicebots) is on the rise. We enc
 
 ## Tuesday, January 17
 
-### 9.00 Linked Open Data as a way to Semantic Web - some European examples (Dr. Dorota Siwecka, University of Wroclaw)
-LOD is one of the means by which the ideas of the semantic web and the development of artificial intelligence can be realized. The lecture will present the basic assumptions related to LOD and also the standard model of data exchange used in the web environment for its implementation - RDF (Resource Description Framework). The issue of appropriate data storage and creation of datasets in the form of open ontologies that can be used to enrich the Semantic Web will also be discussed. The issues will be supported by selected examples of European LOD resources provided by libraries, museums and public administration units.
+### 9.00 GUEST LECTURE: Large bibliographies in the digital humanities. Data acquisition, processing, applications and limitations (Prof Adam Pawlowsky, University of Wroclaw)
 
-### 10.00 Large bibliographies in the digital humanities. Data acquisition, processing, applications and limitations (Prof Adam Pawlowsky, University of Wroclaw)
+### 10.00 GUEST LECTURE: Linked Open Data as a way to Semantic Web - some European examples (Dr. Dorota Siwecka, University of Wroclaw)
+LOD is one of the means by which the ideas of the semantic web and the development of artificial intelligence can be realized. The lecture will present the basic assumptions related to LOD and also the standard model of data exchange used in the web environment for its implementation - RDF (Resource Description Framework). The issue of appropriate data storage and creation of datasets in the form of open ontologies that can be used to enrich the Semantic Web will also be discussed. The issues will be supported by selected examples of European LOD resources provided by libraries, museums and public administration units.
 
 
 ### 11.00 Automation bias and the anthropomorphism of AI
