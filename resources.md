@@ -5,14 +5,19 @@ permalink: resources
 ---
 
 
+### References
+
+[References list in Zotero &nbsp;&raquo;](https://www.zotero.org/groups/4903563/technosemiotics/library)
+
+
 ### AI tools
 
 - [ChatGPT »](https://chat.openai.com/)
 - [Write with Transformer (GPT-2) »](https://transformer.huggingface.co/doc/gpt2-large)
+- [Stable Diffusion text-to-image generator »](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+- [Craiyon / Formerly DALL-E Mini »](https://www.craiyon.com/)
 
 
+### Other
 
-
-### Referencex
-
-[References list in Zotero &nbsp;&raquo;](https://www.zotero.org/groups/4903563/technosemiotics/library)
+- [GitHub / technosemiotics »](https://github.com/technosemiotics/2023-ws-ai)
