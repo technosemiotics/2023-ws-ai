@@ -21,3 +21,8 @@ permalink: resources
 ### Other
 
 - [GitHub / technosemiotics »](https://github.com/technosemiotics/2023-ws-ai)
+
+
+
+
+- [Upload your generated media this GDrive folder >>](https://drive.google.com/drive/folders/1S1DrDug4d-IDolGwEFxKlEhhhH3nCqlb?usp=share_link)
