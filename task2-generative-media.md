@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Task 2: Generative media
+title: Generative media
 permalink: task2
 ---
 
