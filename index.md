@@ -12,9 +12,9 @@ These days, artificial intelligence is a buzzword we see everywhere. According t
 ... the role and agency of society and individuals in technological development<br/>
 
 #### TASKS
-[Task 1: Debunking AI myths and headlines »](/task-debunking-myths/)
+[Task 1: Debunking AI myths and headlines »](task-debunking-myths)
 
-[Task 2: Generative media »](/task2/)
+[Task 2: Generative media »](task2)
 
 
 ![Winter school Olomouc](/assets/img/2023-ws-ai-olomouc.png)
