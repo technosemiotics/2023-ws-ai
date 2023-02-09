@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Debunking AI myths
-permalink: task-debunking-myths
+permalink: /task-debunking-myths/
 ---
 
 The task:

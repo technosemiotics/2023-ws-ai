@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Generative media
-permalink: task2
+permalink: /task2/
 ---
 
 
