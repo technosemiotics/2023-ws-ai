@@ -34,6 +34,10 @@
           {% endif %}
         {% endif %}
 
+        {% if site.owner %}
+          <p class="view">by <a href="{{ site.owner_url }}">{{ site.owner_name }}</a></p>
+        {% endif %}
+
         {% if site.nav %}
           <p>{% include nav.html %}</p>
         {% endif %}

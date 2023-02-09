@@ -1,6 +1,7 @@
 ---
 title: Debunking AI myths
 permalink: /task-debunking-myths/
+menu: nav
 ---
 
 The task:

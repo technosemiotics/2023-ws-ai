@@ -3,3 +3,6 @@ description: An intensive course with lectures on the history of AI, technology 
 theme: jekyll-theme-minimal
 show_downloads: false
 nav: true
+owner: true
+owner_name: Auli Viidalepp
+owner_url: http://auli.viidalepp.org

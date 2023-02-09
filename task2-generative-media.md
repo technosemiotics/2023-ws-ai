@@ -1,6 +1,7 @@
 ---
 title: Generative media
 permalink: /task2/
+menu: nav
 ---
 
 

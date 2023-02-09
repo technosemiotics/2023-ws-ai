@@ -1,6 +1,7 @@
 ---
 title: Programme
 permalink: /programme/
+menu: nav
 ---
 
 
